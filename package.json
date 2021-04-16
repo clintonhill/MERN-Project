@@ -4,7 +4,8 @@
   "description": "Project to learn MERN.",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "start": "node app.js",
+    "server": "nodemon app.js"
   },
   "repository": {
     "type": "git",
